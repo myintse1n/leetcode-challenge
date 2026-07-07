@@ -1,0 +1,17 @@
+# Compiled class files
+bin/
+*.class
+
+# Eclipse / Java language server metadata (in case they ever appear)
+.classpath
+.project
+.settings/
+
+# Logs and crash dumps
+*.log
+hs_err_pid*
+replay_pid*
+
+# OS files
+Thumbs.db
+.DS_Store
